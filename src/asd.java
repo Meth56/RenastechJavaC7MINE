@@ -6,5 +6,8 @@ public class asd {
     niye
     lan
     dayi
+    sana
+    ne
+    gardas
      */
 }
