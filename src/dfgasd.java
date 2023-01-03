@@ -1,5 +1,5 @@
 public class dfgasd {
-    sdafgsdfasdgasdgf
-    asdfdgx
-        sout"Hello world aslannnn"
+    public static void main(String[] args) {
+        System.out.println("aslanabasdasd");
+    }
 }

@@ -1,4 +1,2 @@
-public class asd {a
-
-    asdasd
+public class asd {
 }
